@@ -38,3 +38,4 @@ class ClienteTest {
         assertEquals(clienteEsperado.getApellido(), clienteModificado.getApellido(), "El apellido debería haberse actualizado correctamente");
     }
 }
+ 
